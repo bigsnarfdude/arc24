@@ -1,6 +1,6 @@
 # arc24
 
-Create an AI capable of solving reasoning tasks it has never seen before
+Cloned solution from ironbar. found from github search 
 
 https://www.kaggle.com/competitions/arc-prize-2024
 
